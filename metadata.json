@@ -1,0 +1,5 @@
+{
+  "name": "Tasting Inventory Master",
+  "description": "A mobile-first inventory management system for tasting samples with smart batch tracking, expiration alerts, and quick restock/inbound workflows.",
+  "requestFramePermissions": []
+}
